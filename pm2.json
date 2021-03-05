@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "demo_thinkjs",
+    "script": "production.js",
+    "cwd": "E:\桌面\Vue全家桶\demo_thinkjs",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
